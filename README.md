@@ -1,0 +1,51 @@
+**📰 Multi-Agent AI News Researcher**
+
+Welcome to Multi-Agent AI News Researcher! 🚀
+This app is a powerful tool that allows users to explore Hacker News stories and users, and even create blog posts and reports with the help of AI! 
+
+**✨ Features**
+
+🔍 Explore Hacker News Stories : 
+Fetch top stories and relevant news from Hacker News effortlessly.
+
+🤖 AI-Powered Research: 
+Uses GPT-4o-mini to generate detailed reports and insights based on your queries.
+
+🎯 Multi-Agent Setup: 
+Two assistants for specialized tasks
+
+⚡ Streamlit Interface:
+A simple, clean, and interactive UI to make your research easy and fast.
+
+**🚀 Getting Started**
+Follow these steps to get started with the app:
+
+1. Clone the Repository
+
+`git clone https://github.com/your-username/multi-agent-ai-news-researcher.git`
+
+`cd multi-agent-ai-news-researcher`
+
+2. Install Dependencies
+Make sure you have Python 3.8+ installed, then install the required libraries.
+
+3. Run the Application
+Start the Streamlit app:
+
+`streamlit run app.py`
+
+**🛠 How to Use**
+
+🖊️ Input Your OpenAI API Key
+On the app interface, enter your OpenAI API Key (required to interact with GPT-4o-mini).
+
+
+🤔 Enter Your Query
+Type in your research query or topic of interest. For example:
+
+"Summarize this week's top Hacker News stories."
+"What are the latest trends in AI from Hacker News?"
+
+📄 Generate a Report
+The AI assistant will process your query and generate an insightful report.
+
