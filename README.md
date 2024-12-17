@@ -22,9 +22,9 @@ Follow these steps to get started with the app:
 
 1. Clone the Repository
 
-`git clone https://github.com/your-username/multi-agent-ai-news-researcher.git`
+`git clone https://github.com/PranaySinghal/NewsBot.git`
 
-`cd multi-agent-ai-news-researcher`
+`cd NewsBot`
 
 2. Install Dependencies
 Make sure you have Python 3.8+ installed, then install the required libraries.
@@ -32,7 +32,7 @@ Make sure you have Python 3.8+ installed, then install the required libraries.
 3. Run the Application
 Start the Streamlit app:
 
-`streamlit run app.py`
+`streamlit run research_agent.py`
 
 **🛠 How to Use**
 
