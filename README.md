@@ -18,6 +18,7 @@ Two assistants for specialized tasks
 A simple, clean, and interactive UI to make your research easy and fast.
 
 **Getting Started**
+
 Follow these steps to get started with the app:
 
 1. Clone the Repository
