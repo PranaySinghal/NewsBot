@@ -50,7 +50,8 @@ Type in your research query or topic of interest. For example:
 📄 Generate a Report
 The AI assistant will process your query and generate an insightful report.
 
-**📦 Dependencies**
+**Dependencies**
+
 The project uses the following Python libraries:
 
 Streamlit - For the user interface.
@@ -58,6 +59,7 @@ phi - Multi-agent orchestration and tools.
 OpenAI - For GPT-based responses.
 
 **Development Notes**
+
 Ensure your OpenAI API Key is active and valid.
 Python version 3.8 or higher is recommended.
 This project is built with modularity in mind, so feel free to extend functionality with more assistants or tools.
